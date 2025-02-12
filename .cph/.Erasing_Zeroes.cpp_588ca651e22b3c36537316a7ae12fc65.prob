@@ -1,0 +1,1 @@
+{"name":"Local: Erasing_Zeroes","url":"c:\\Users\\tarun\\OneDrive\\Desktop\\CodeForces\\Erasing_Zeroes.cpp","tests":[{"id":1739357924184,"input":"3\n010011\n0\n1111000\n","output":"2\n0\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tarun\\OneDrive\\Desktop\\CodeForces\\Erasing_Zeroes.cpp","group":"local","local":true}
